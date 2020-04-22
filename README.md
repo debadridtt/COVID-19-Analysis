@@ -45,11 +45,18 @@ I have defined two stages in India one for the pre-lockdown period (2nd March - 
 I set my `S_0`, i.e. the initial population for the SIR model to two values, one for the Best Case Scenario and Worst Case Scenario. For guesstimating the values of `S_0` intuitively I considered the below mentioned factors:
 
 i) Tried to keep a bias of a higher population based on the data of most affected countries in the world (Europe & USA)
+
 ii) The percentage of people who are actually being tested positive out of the total no. of tests done
+
 iii) The mean age of the population of India is quite lesser compared to Europe and USA
+
 iv) The climatic conditions and the immuntiy of Indians
+
 v) Considering that Corona started off with people with travel history. There are many places in India which are underdeveloped, does not have an airport, and neither those people have priviledge to travel outside their place nor does anyone visit because of lack of development and industries
+
 vi) Earlier declaration of lockdown compared to other countries
+
+v) 56 districts in India did not report any new cases in last 2 weeks as per the Indian Govt. Faster corona free states like Goa helped me understand that the spread in India is dependant on top 15-20 states, especially the ones having metro city
 
 For better explanation please refer to the notebook provided
 
