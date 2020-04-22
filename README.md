@@ -73,7 +73,7 @@ Tried to do the modeling for three different scenarios:
 ![3](https://user-images.githubusercontent.com/24243687/80022145-3fc7c000-84f9-11ea-9093-961d239a9ac2.JPG)
 
 
-**Conclusion:**
+**Conclusion for India:**
 
 
 | Feature | Before Lockdown | During Lockdown |
