@@ -56,13 +56,14 @@ v) Considering that Corona started off with people with travel history. There ar
 
 vi) Earlier declaration of lockdown compared to other countries
 
-v) 56 districts in India did not report any new cases in last 2 weeks as per the Indian Govt. Faster corona free states like Goa helped me understand that the spread in India is dependant on top 15-20 states, especially the ones having metro city
+vii) 56 districts in India did not report any new cases in last 2 weeks as per the Indian Govt. Faster corona free states like Goa helped me understand that the spread in India is dependant on top 15-20 states, especially the ones having metro city
 
 For better explanation please refer to the notebook provided
 
 Data Sources:
 
 For India: http://covid19india.org
+
 For Rest of World: https://www.kaggle.com/duttadebadri/covid19-testing-rate-all-countries, https://www.kaggle.com/duttadebadri/covid19-india-complete-data, https://www.kaggle.com/sudalairajkumar/covid19-in-india, etc.
 
 Tried to do the modeling for three different scenarios:
