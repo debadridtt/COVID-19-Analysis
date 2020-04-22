@@ -7,10 +7,12 @@ I tried to implement the SIR Modeling by setting an initial population that coul
 
 The SIR model is a simple mathematical description of the spread of a disease in a population is the so-called SIR model, which divides the (fixed) population of N individuals into three "compartments" which may vary as a function of time, t:
 
-`dSdt = −βSI/N
-dIdt = βSI/N−γI 
-dRdt = γI
 
-`S(t) are those susceptible but not yet infected with the disease;
-I(t) is the number of infectious individuals;
-R(t) are those individuals who have recovered from the disease and now have immunity to it.`
+      dSdt = −βSI/N
+      dIdt = βSI/N−γI 
+      dRdt = γI
+
+      S(t) are those susceptible but not yet infected with the disease;
+      I(t) is the number of infectious individuals;
+      R(t) are those individuals who have recovered from the disease and now have immunity to it.
+
