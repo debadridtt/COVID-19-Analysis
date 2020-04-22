@@ -51,6 +51,8 @@ iv) The climatic conditions and the immuntiy of Indians
 v) Considering that Corona started off with people with travel history. There are many places in India which are underdeveloped, does not have an airport, and neither those people have priviledge to travel outside their place nor does anyone visit because of lack of development and industries
 vi) Earlier declaration of lockdown compared to other countries
 
+For better explanation please refer to the notebook provided
+
 Data Sources:
 
 For India: http://covid19india.org
@@ -59,11 +61,14 @@ For Rest of World: https://www.kaggle.com/duttadebadri/covid19-testing-rate-all-
 Tried to do the modeling for three different scenarios:
 
 **i) Without Lockdown Scenario in India**:
+
 ![1](https://user-images.githubusercontent.com/24243687/80021971-f9726100-84f8-11ea-9f9c-17e479bf0f00.JPG)
 
 **ii) Best Case Scenario with Lockdown for next 6 months from 20th April**:
+
 ![2](https://user-images.githubusercontent.com/24243687/80022054-20309780-84f9-11ea-8472-6f946497de0c.JPG)
 
 **iii) Worst Case Scenario with Lockdown for next 6 months from 20th April**:
+
 ![3](https://user-images.githubusercontent.com/24243687/80022145-3fc7c000-84f9-11ea-9093-961d239a9ac2.JPG)
 
