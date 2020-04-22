@@ -42,6 +42,9 @@ I have taken reference from this article here: https://www.lewuathe.com/covid-19
 
 I have defined two stages in India one for the pre-lockdown period (2nd March - 25th March) and lockdown period from (25th Mar - 19th April). I have then estimated by `β` and `γ` based on the lockdown period and hence predicted for a period of next 6 months starting from April 20th. 
 
+
+**Guesstimating Population Size**:
+
 I set my `S_0`, i.e. the initial population for the SIR model to two values, one for the Best Case Scenario and Worst Case Scenario. For guesstimating the values of `S_0` intuitively I considered the below mentioned factors:
 
 i) Tried to keep a bias of a higher population based on the data of most affected countries in the world (Europe & USA)
