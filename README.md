@@ -89,7 +89,7 @@ Tried to do the modeling for three different scenarios:
 
 | Feature | Before Lockdown | During Lockdown |
 | ------------- | ------------- | ------------- |
-| `β` (Transmission Rate)  | 0.275  | 0.162 |
+| `β` (Infection Rate)  | 0.275  | 0.162 |
 | `γ` (Recovery Rate) | 0.017  | 0.02  |
 | `R0` (Contact Rate) | 16.25 | 7.62 |
 
