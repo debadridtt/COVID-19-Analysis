@@ -83,7 +83,7 @@ Tried to do the modeling for three different scenarios:
 
 ![3](https://user-images.githubusercontent.com/24243687/80022145-3fc7c000-84f9-11ea-9093-961d239a9ac2.JPG)
 
-**Beta Value Comparison amongst USA, UK and Germany:**
+**Beta Value comparison amongst USA, UK and Germany:**
 
 | Country | `β` (Infection Rate)| 
 | ------------- | ------------- | 
@@ -91,7 +91,7 @@ Tried to do the modeling for three different scenarios:
 | Germany | 0.268  | 
 | UK | 0.238 | 
 
-**Conclusion for India:**
+**For India:**
 
 
 | Feature | Before Lockdown | During Lockdown |
