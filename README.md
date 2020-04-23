@@ -83,6 +83,13 @@ Tried to do the modeling for three different scenarios:
 
 ![3](https://user-images.githubusercontent.com/24243687/80022145-3fc7c000-84f9-11ea-9093-961d239a9ac2.JPG)
 
+**Beta Value Comparison amongst USA, UK and Germany:**
+
+| Country | `β` (Infection Rate)| 
+| ------------- | ------------- | 
+|  USA  | 0.316  |
+| Germany | 0.268  | 
+| UK | 0.238 | 
 
 **Conclusion for India:**
 
@@ -93,6 +100,6 @@ Tried to do the modeling for three different scenarios:
 | `γ` (Recovery Rate) | 0.017  | 0.02  |
 | `R0` (Contact Rate) | 16.25 | 7.62 |
 
-We see that **`R0` has reduced by 53%, `β` reduced by 41%**
+From the above tables we can conclude that India's lockdown was correctly timed, as a result of which **`R0` has reduced by 53%, `β` reduced by 41%**
 
 Please feel free to do pull request and contribute. Also note that I'm planning to update the model on a weekly basis and also planning to add the state-wise results soon
