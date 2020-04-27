@@ -3,7 +3,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 This project ultimate objective focuses on understanding the COVID19 patterns in the most affected countries in the world, mainly USA and Italy, Spain, Germany, France and UK from Europe.
 
-I tried to implement the SIR Modeling by setting an initial population that could have had been exposed to Covid 19 by 25th March which was declared as the lockdown in India. 
+I tried to implement the SIR Modeling by setting an initial population that could have had been exposed to Covid 19 by 25th March which was declared as the lockdown date in India. 
 
 The SIR model is a simple mathematical description of the spread of a disease in a population is the so-called SIR model, which divides the (fixed) population of N individuals into three "compartments" which may vary as a function of time, t:
 
