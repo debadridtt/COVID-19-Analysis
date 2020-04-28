@@ -83,6 +83,12 @@ Tried to do the modeling for three different scenarios:
 
 ![3](https://user-images.githubusercontent.com/24243687/80022145-3fc7c000-84f9-11ea-9093-961d239a9ac2.JPG)
 
+**From the above two graphs, best case and worst case scenario**:
+- The red curve represents the active no. of cases, the green curve represents the susceptibble population and the purple curve shows the no. of people recovered
+- The peak in active cases in India is expected to happen somewhere around 1st week of May to mid-May
+
+P.S. Assumptions are taken that initial population will remain constant because of the restrictions by the government being in place
+
 **Beta Value comparison amongst USA, UK and Germany:**
 
 | Country | `β` (Infection Rate)| 
