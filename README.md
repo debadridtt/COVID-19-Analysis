@@ -85,7 +85,7 @@ Tried to do the modeling for three different scenarios:
 
 **From the above two graphs, best case and worst case scenario**:
 - The red curve represents the active no. of cases, the green curve represents the susceptibble population and the purple curve shows the no. of people recovered
-- The peak in active cases in India is expected to happen somewhere around 1st week of May to mid-May
+- The peak in active cases in India is expected to happen somewhere around 1st week of May to mid-May ranging from 48K-90K
 
 P.S. Assumptions are taken that initial population will remain constant because of the restrictions by the government being in place
 
