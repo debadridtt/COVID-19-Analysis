@@ -1,4 +1,7 @@
 # COVID-19-Analysis
+
+For updated SIR modeling please visit my Kaggle Kernel:https://www.kaggle.com/duttadebadri/covid-19-analysing-growth-sir-modeling-india
+
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).The disease was first identified in December 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic
 
 This project ultimate objective focuses on understanding the COVID19 patterns in the most affected countries in the world, mainly USA and Italy, Spain, Germany, France and UK from Europe.
