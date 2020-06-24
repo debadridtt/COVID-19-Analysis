@@ -82,9 +82,9 @@ Tried to do the modeling for three different scenarios:
 
 ![2](https://user-images.githubusercontent.com/24243687/80022054-20309780-84f9-11ea-8472-6f946497de0c.JPG)
 
-**iii) Worst Case Scenario with Lockdown for next 6 months from 20th April**:
+**iii) Possible Scenario for next 3 months from 5th May, 2020**:
 
-![3](https://user-images.githubusercontent.com/24243687/80022145-3fc7c000-84f9-11ea-9093-961d239a9ac2.JPG)
+![Capture](https://user-images.githubusercontent.com/24243687/85501786-a6558100-b603-11ea-958b-4cbf44d3e0bd.JPG)
 
 **From the above two graphs, best case and worst case scenario**:
 - The red curve represents the active no. of cases, the green curve represents the susceptibble population and the purple curve shows the no. of people recovered
