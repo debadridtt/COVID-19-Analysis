@@ -84,7 +84,8 @@ Tried to do the modeling for three different scenarios:
 
 **iii) Possible Scenario for next 3 months from 5th May, 2020**:
 
-![Capture](https://user-images.githubusercontent.com/24243687/85501786-a6558100-b603-11ea-958b-4cbf44d3e0bd.JPG)
+![Capture](https://user-images.githubusercontent.com/24243687/85502421-e6693380-b604-11ea-96b1-5314ef087dd9.JPG)
+
 
 **From the above two graphs, best case and worst case scenario**:
 - The red curve represents the active no. of cases, the green curve represents the susceptibble population and the purple curve shows the no. of people recovered
